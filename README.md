@@ -1,10 +1,12 @@
-<h2>Running</h2>
+<h2>Building</h2>
 <ol>
-<li>Run the /backend/survey_mysql_create.sql script with MariaDB</li>
-<li>Get the correct dependencies. Refer to package.json files</li>
-<li>run `node index.js` in /backend/</li>
-<li>run `npm start` in /simple_survey_frontend</li>
-  <li>Open http://localhost:3000/ in browser</li>
+  <li>Run ```git clone https://github.com/klrs/simple_survey.git``` on chosen location</li>
+  <li>Run .sql script with MySQL server of your choice with ```source /your/path/here/simple_survey/backend/survey_mysql_create.sql;```</li>
+  <li>Run ```npm install``` in simple_survey/backend</li>
+  <li>Run ```npm install``` in simple_survey/simple_survey_frontend</li>
+  <li>Run ```npm start``` in simple_survey/backend</li>
+  <li>Run ```npm start``` in simple_survey/simple_survey_frontend</li>
+  <li>Open http://localhost:3000/ in browser if it doesn't automatically open</li>
 </ol>
 
 <h2>REST endpoints</h2>
