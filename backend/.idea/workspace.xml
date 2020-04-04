@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="108bfef3-7e31-459e-890a-e97b7918fb2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../simple_survey_frontend/src/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../simple_survey_frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple_survey_frontend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simple_survey_frontend/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../simple_survey_frontend/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simple_survey_frontend/src/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../simple_survey_frontend/src/navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simple_survey_frontend/src/results.js" beforeDir="false" afterPath="$PROJECT_DIR$/../simple_survey_frontend/src/results.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../simple_survey_frontend/src/survey.js" beforeDir="false" afterPath="$PROJECT_DIR$/../simple_survey_frontend/src/survey.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +27,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/survey_mysql_create.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
+            <state relative-caret-position="553">
               <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
             </state>
           </provider>
@@ -59,7 +55,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="4" />
+    <option name="x" value="1926" />
     <option name="width" value="1938" />
     <option name="height" value="1092" />
   </component>
@@ -85,7 +81,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -114,16 +110,18 @@
       <workItem from="1585829881836" duration="57000" />
       <workItem from="1585992940094" duration="6099000" />
       <workItem from="1586016662907" duration="680000" />
+      <workItem from="1586021563667" duration="186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6836000" />
+    <option name="totallyTimeSpent" value="7022000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="4" width="1938" height="1092" extended-state="0" />
+    <frame x="1926" y="0" width="1938" height="1092" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25725028" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26100966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -138,7 +136,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3145946" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3145946" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -150,6 +148,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/node_modules/utils.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1728">
@@ -157,12 +156,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/survey_mysql_create.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
+        <state relative-caret-position="553">
           <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
         </state>
       </provider>
