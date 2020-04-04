@@ -4,6 +4,7 @@
 <li>Get the correct dependencies. Refer to package.json files</li>
 <li>run `node index.js` in /backend/</li>
 <li>run `npm start` in /simple_survey_frontend</li>
+  <li>Open http://localhost:3000/ in browser</li>
 </ol>
 
 <h2>REST endpoints</h2>
