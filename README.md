@@ -1,11 +1,11 @@
 <h2>Building</h2>
 <ol>
-  <li>Run ```git clone https://github.com/klrs/simple_survey.git``` on chosen location</li>
-  <li>Run .sql script with MySQL server of your choice with ```source /your/path/here/simple_survey/backend/survey_mysql_create.sql;```</li>
-  <li>Run ```npm install``` in simple_survey/backend</li>
-  <li>Run ```npm install``` in simple_survey/simple_survey_frontend</li>
-  <li>Run ```npm start``` in simple_survey/backend</li>
-  <li>Run ```npm start``` in simple_survey/simple_survey_frontend</li>
+  <li>Run `git clone https://github.com/klrs/simple_survey.git` on chosen location</li>
+  <li>Run .sql script with MySQL server of your choice with `source /your/path/here/simple_survey/backend/survey_mysql_create.sql;`</li>
+  <li>Run `npm install` in simple_survey/backend</li>
+  <li>Run `npm install` in simple_survey/simple_survey_frontend</li>
+  <li>Run `npm start` in simple_survey/backend</li>
+  <li>Run `npm start` in simple_survey/simple_survey_frontend</li>
   <li>Open http://localhost:3000/ in browser if it doesn't automatically open</li>
 </ol>
 
