@@ -26,5 +26,5 @@ CREATE TABLE IF NOT EXISTS `survey_db`.`Survey` (
 ENGINE = InnoDB;
 
 INSERT INTO `survey_db`.`Scale` (`option1`, `option2`, `option3`, `option4`, `option5`) VALUES
-            ('0', '0', '0', '0', '0', 'Eri mieltä');
+            ('0', '0', '0', '0', '0');
 INSERT INTO `survey_db`.`Survey` (`name`, `optionCount`, `scaleId`) VALUES ('Mielipide asiasta x', '5', '1');
