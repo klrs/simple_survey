@@ -1,6 +1,9 @@
 const express = require('express');
 const mysql = require('mysql');
+const cors = require('cors');
+
 const app = express();
+app.use(cors());
 
 let con = mysql.createConnection({
     host: "localhost",
@@ -66,7 +69,8 @@ app.route('/api/survey/:id').get((req, res) => {
     }, req.params.id);
 });
 
-app.route('/api/scale/:id/vote/:option').get((req, res) => {
+app.route('/api/scale/:id/vote/:option').put((req, res) => {
+    //todo change to put
     sqlIncrementOption(function(data) {
         //todo
         res.send('id:' + req.params.id + ' option:' + req.params.option);
