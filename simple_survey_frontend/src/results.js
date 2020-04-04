@@ -65,10 +65,10 @@ class Results extends React.Component {
 
     renderHistogram() {
         return (
-            <div>
+            <div className='hgram'>
             <Plot
                 data={[{ type: 'bar', x: this.state.x, y: this.state.y }]}
-                layout={{width: 320, height: 240, title: 'Äänestysjakauma'}}
+                layout={{width: 480, height: 320, title: 'Äänestysjakauma'}}
             />
             </div>
         )

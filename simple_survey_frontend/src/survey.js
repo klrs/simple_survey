@@ -86,7 +86,7 @@ class Survey extends React.Component {
                 <h1>{this.state.name}</h1>
                 <form onSubmit={(e) => this.handleSubmit(e)}>
                     {this.renderOptionScale()}
-                    <input type="submit" value="Submit"></input>
+                    <input className='surveySubmit' type="submit" value="Submit"></input>
                 </form>
             </div>
         )
