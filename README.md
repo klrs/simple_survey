@@ -17,6 +17,6 @@ PUT - '/api/scale/:id/vote/:option', where :id is the id of the survey and :opti
 Increments chosen option field by one. Note: body is not needed.
 
 <h2>Pictures</h2>
-<img src=https://github.com/klrs/simple_survey/kuva1.PNG>
+<img src=https://github.com/klrs/simple_survey/blob/master/kuva1.PNG>
 
-<img src=https://github.com/klrs/simple_survey/kuva2.PNG>
+<img src=https://github.com/klrs/simple_survey/blob/master/kuva2.PNG>
